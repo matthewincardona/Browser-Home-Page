@@ -6,6 +6,10 @@
         label: "DouxDolci Hosting",
         href: "https://douxdolci-hosting.net:10000/",
       },
+      {
+        label: "ChatGPT",
+        href: "https://chatgpt.com/",
+      },
     ],
     Projects: [
       {
